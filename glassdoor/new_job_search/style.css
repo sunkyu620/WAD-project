@@ -1,0 +1,48 @@
+body {
+    background: white;
+    text-align: center;
+  }
+
+#searchBar {
+    background-color: #f2cbbc;
+    padding: 1%; 
+}
+
+#keyword, #category {
+    width: 500px;
+    margin-left: 1%;
+}
+
+#searchJob {
+    margin-left: 1%;
+
+}
+.card {
+    background: white;
+    border-radius: 20px;
+    display: inline-block;
+    height: auto;
+    margin: 1rem;
+    position: relative;
+    width: 300px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+.card:hover {
+    box-shadow: 0 14px 28px #b8cef3, 0 10px 10px #b8cef3;
+}
+
+.card-content{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.modal-header{
+    margin-top: 10px;
+}
+
+.container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

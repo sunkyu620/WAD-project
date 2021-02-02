@@ -1,0 +1,72 @@
+#header {
+    margin-top: 20px;
+}
+#logo {
+    max-width:80%;
+    max-height: 50%;    
+}
+
+#sign-in {
+    margin-top: 10px;
+    text-align: right;
+}
+
+#blank-space {
+    height: 40px;
+}
+
+#dropdown {
+    margin-top: 3%;
+}
+.reg-form {
+    width: 75%;
+    font-size: large;
+    margin-top: 3%;
+}
+
+.dropdown-toggle {
+    margin-top: 3%;
+}
+
+#dDSchool{ 
+    margin-left: 3%;
+    /* margin-top: 1%; */
+}
+
+#selectModHeader {
+    margin-top: 3%;
+    margin-bottom: 1%;
+}
+.btn-circle.btn-sm { 
+    width: 30px; 
+    height: 30px; 
+    padding: 0px 0px; 
+    border-radius: 15px; 
+    font-size: large; 
+    text-align: center; 
+} 
+
+
+.input-bar-item {
+    display: table-cell;
+}
+
+.form-inline{
+    margin-top:30px;
+}
+
+.background{
+    background-image: url("./Admin\ \(2\).gif");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.trans-box{
+    background: rgba(255, 255, 255, 0.78);
+}
+
+#change-button{
+    margin-bottom: 80px;
+}
+
